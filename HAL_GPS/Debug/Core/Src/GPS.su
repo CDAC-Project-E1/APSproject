@@ -1,0 +1,2 @@
+../Core/Src/GPS.c:15:6:UART1_Read	16	static
+../Core/Src/GPS.c:21:9:GPS_Read_Location	136	static
