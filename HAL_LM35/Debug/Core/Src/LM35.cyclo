@@ -1,0 +1,2 @@
+../Core/Src/LM35.c:13:6:LM35_Init	2
+../Core/Src/LM35.c:29:7:LM35_ReadTemperature	1
