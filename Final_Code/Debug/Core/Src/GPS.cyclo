@@ -1,0 +1,2 @@
+../Core/Src/GPS.c:8:6:UART1_Read	1
+../Core/Src/GPS.c:14:9:GPS_Read_Location	8
